@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.luna724.lunatweaks.mixin",
+  "refmap": "mixins.lunatweaks.refmap.json",
+  "mixins": [
+    "MixinGuiChest"
+  ],
+  "client": [
+  ],
+  "server": [
+  ]
+}

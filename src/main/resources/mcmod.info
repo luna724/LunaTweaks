@@ -1,0 +1,16 @@
+[
+{
+  "modid": "lunatweaks",
+  "name": "Luna's Tweaks",
+  "description": "This is a mod for 1.8.9 that focuses mainly on appearance, including textures. Created by. luna724",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["dxxxxy", "luna724"],
+  "credits": "The Forge and FML guys, for making this example. dxxxxy for fixing it.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
