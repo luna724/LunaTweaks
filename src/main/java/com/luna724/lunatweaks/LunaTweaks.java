@@ -1,5 +1,6 @@
 package com.luna724.lunatweaks;
 
+import com.luna724.lunatweaks.mixin.ChestTextureHandler;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;

@@ -4,10 +4,9 @@
   "package": "com.luna724.lunatweaks.mixin",
   "refmap": "mixins.lunatweaks.refmap.json",
   "mixins": [
-    "MixinGuiChest"
+    "MixinGuiChest",
+    "ChestTextureHandler"
   ],
-  "client": [
-  ],
-  "server": [
-  ]
+  "client": [],
+  "server": []
 }
